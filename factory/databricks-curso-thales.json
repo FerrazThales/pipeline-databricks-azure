@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-thales",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "066c7010-cf35-4396-aebe-18ca51873ab7",
+		"tenantId": "f9986ba7-ac09-4ed2-ad33-4a08f843cb78"
+	}
+}
